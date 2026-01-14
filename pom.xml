@@ -9,9 +9,11 @@
     <url>https://capnproto.org/</url>
     <modules>
       <module>runtime</module>
+      <!--
       <module>compiler</module>
       <module>examples</module>
       <module>benchmark</module>
+      -->
     </modules>
     <licenses>
         <license>
